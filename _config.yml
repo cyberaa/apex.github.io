@@ -1,2 +1,4 @@
 name: Apex Tech Adventures
 markdown: kramdown
+
+theme: jekyll-theme-minimal
